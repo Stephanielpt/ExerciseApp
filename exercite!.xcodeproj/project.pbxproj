@@ -14,6 +14,7 @@
 		12F32D372042D5DC00FC8E42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12F32D352042D5DC00FC8E42 /* LaunchScreen.storyboard */; };
 		12F32D422042D5DC00FC8E42 /* exercite_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F32D412042D5DC00FC8E42 /* exercite_Tests.swift */; };
 		12F32D4D2042D5DC00FC8E42 /* exercite_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F32D4C2042D5DC00FC8E42 /* exercite_UITests.swift */; };
+		12F32D5B2042E47E00FC8E42 /* TimeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F32D5A2042E47E00FC8E42 /* TimeController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		12F32D482042D5DC00FC8E42 /* exercite!UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "exercite!UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		12F32D4C2042D5DC00FC8E42 /* exercite_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = exercite_UITests.swift; sourceTree = "<group>"; };
 		12F32D4E2042D5DC00FC8E42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		12F32D5A2042E47E00FC8E42 /* TimeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				12F32D2C2042D5DC00FC8E42 /* AppDelegate.swift */,
 				12F32D2E2042D5DC00FC8E42 /* ViewController.swift */,
+				12F32D5A2042E47E00FC8E42 /* TimeController.swift */,
 				12F32D302042D5DC00FC8E42 /* Main.storyboard */,
 				12F32D332042D5DC00FC8E42 /* Assets.xcassets */,
 				12F32D352042D5DC00FC8E42 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				12F32D2F2042D5DC00FC8E42 /* ViewController.swift in Sources */,
 				12F32D2D2042D5DC00FC8E42 /* AppDelegate.swift in Sources */,
+				12F32D5B2042E47E00FC8E42 /* TimeController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
